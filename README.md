@@ -1,6 +1,7 @@
 # Testinium
 Testinium Test Case
 
+
 Web Otomasyon Projesi için Notlar:
 
 1-) Rastgele seçilen ürün, ekranda gösterilen ürünlerden ilkidir. Ürün sürekli değişse bile seçim gösterilen ürünün id'sinden yapıldığı için ilk ürünü seçer 
@@ -13,4 +14,4 @@ REST API Projesi için Notlar:
 2-) Senaryo gereği sürekli yeni Board ve Kartlar yeniden oluşturulmakta. Her yeni oluşturulan Board ve kartın ID değerleride değişmekte servisi çalıştırmadan önce 
 bu ID'lerinde değiştirilmesi sağlıklı olacaktır. 
 
-Hikmet Şekerci
+Hikmet Şekerci 
